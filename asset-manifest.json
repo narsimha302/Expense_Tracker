@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://narsimha302.github.io/csb-99dcfz/static/css/main.b0cdefad.chunk.css",
+    "main.js": "https://narsimha302.github.io/csb-99dcfz/static/js/main.dcd7682e.chunk.js",
+    "main.js.map": "https://narsimha302.github.io/csb-99dcfz/static/js/main.dcd7682e.chunk.js.map",
+    "runtime-main.js": "https://narsimha302.github.io/csb-99dcfz/static/js/runtime-main.b971f258.js",
+    "runtime-main.js.map": "https://narsimha302.github.io/csb-99dcfz/static/js/runtime-main.b971f258.js.map",
+    "static/js/2.14a33a0b.chunk.js": "https://narsimha302.github.io/csb-99dcfz/static/js/2.14a33a0b.chunk.js",
+    "static/js/2.14a33a0b.chunk.js.map": "https://narsimha302.github.io/csb-99dcfz/static/js/2.14a33a0b.chunk.js.map",
+    "index.html": "https://narsimha302.github.io/csb-99dcfz/index.html",
+    "static/css/main.b0cdefad.chunk.css.map": "https://narsimha302.github.io/csb-99dcfz/static/css/main.b0cdefad.chunk.css.map",
+    "static/js/2.14a33a0b.chunk.js.LICENSE.txt": "https://narsimha302.github.io/csb-99dcfz/static/js/2.14a33a0b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "https://narsimha302.github.io/csb-99dcfz/static/media/money.9eedd35c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b971f258.js",
+    "static/js/2.14a33a0b.chunk.js",
+    "static/css/main.b0cdefad.chunk.css",
+    "static/js/main.dcd7682e.chunk.js"
+  ]
+}
